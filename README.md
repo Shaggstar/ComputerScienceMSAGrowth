@@ -2,7 +2,8 @@
 Investigating a possible relationship between a university's computer science department rank, and surrounding urban growth
 
 
-#Intro 
+#Intro
+
 Much has been written about skilled labor and the impact this has on urban growth (Glaeser 2003). 
 Additionally there is increasing debate about the cost and benefit of higher education. 
 This analysis seeks to isolate and determine whether a single higher educational ranking, i.e. the ranking of a 
